@@ -5,7 +5,7 @@ import android.view.Menu
 import android.view.MenuItem
 import androidx.appcompat.app.AppCompatActivity
 import com.example.movie_kp.R
-import com.example.movie_kp.extensition.setUpToolBar
+import com.example.movie_kp.util.extensition.setUpToolBar
 import com.google.android.material.bottomnavigation.BottomNavigationView
 import kotlinx.android.synthetic.main.home_activity.*
 import org.jetbrains.anko.toast

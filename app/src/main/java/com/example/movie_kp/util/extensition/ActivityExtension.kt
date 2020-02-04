@@ -1,4 +1,4 @@
-package com.example.movie_kp.extensition
+package com.example.movie_kp.util.extensition
 
 import androidx.appcompat.app.AppCompatActivity
 import androidx.appcompat.widget.Toolbar
