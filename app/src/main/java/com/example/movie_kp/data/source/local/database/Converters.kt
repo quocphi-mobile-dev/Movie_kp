@@ -1,4 +1,4 @@
-package com.example.movie_kp.data.source.local
+package com.example.movie_kp.data.source.local.database
 
 import androidx.room.TypeConverter
 import com.example.movie_kp.data.model.Keyword

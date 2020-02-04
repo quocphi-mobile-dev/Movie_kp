@@ -1,4 +1,4 @@
-package com.example.movie_kp.data.source.remote
+package com.example.movie_kp.data.source.remote.api
 
 object Api {
     private const val API_KEY = "api key"

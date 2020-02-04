@@ -1,6 +1,6 @@
-package com.example.movie_kp.data.network
+package com.example.movie_kp.data.source.remote.response
 
-import com.example.movie_kp.data.Movie
+import com.example.movie_kp.data.model.entity.Movie
 import com.google.gson.annotations.SerializedName
 
 data class MovieResponse(
@@ -10,4 +10,4 @@ data class MovieResponse(
         val totalResults: Int,
         @SerializedName("total_pages")
         val totalPage: Int
-): NetworkResponse()
+)
